@@ -74,7 +74,7 @@ You are an expert Lead Motion & Frontend Engineer. Build a high-performance pers
 Design System & Aesthetic:
 - Fonts: "Plus Jakarta Sans" for primary body/headings + "JetBrains Mono" for monospace tags & section pills.
 - Color Palette: Pure white base (`#ffffff`), subtle technical grid overlay (`opacity-[0.06]`), dark slate accents (`#0c111d`), deep cinematic footer (`#050507`), and electric blue highlights (`#0055ff`).
-- Header Badges: Standardized bold uppercase monospace pills (`01 / THE APPROACH`, `02 / SELECTED WORK`, `03 / TECH STACK & ECOSYSTEM`, `04 / SERVICES`).
+- Header Badges: Standardized bold uppercase monospace pills (`01 / THE APPROACH`, `02 / SELECTED WORK`, `03 / TECH STACK & ECOSYSTEM`).
 
 Component Requirements:
 
