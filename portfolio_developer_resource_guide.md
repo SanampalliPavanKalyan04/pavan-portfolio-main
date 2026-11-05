@@ -104,7 +104,7 @@ Component Requirements:
 6. Cinematic Footer & Social Logos (`#sec-cta-footer`):
    - Dark background (`#050507`).
    - Headline: "Have an idea? Let's turn it into something real."
-   - Action Buttons: Primary "Get In Touch" email button (`mailto:devendhargopagoni@gmail.com`) + Official SVG Brand Pills for GitHub, LinkedIn, and Instagram.
+   - Action Buttons: Primary "Get In Touch" email button (`mailto:sanampallipavankalyan36@gmail.com`) + Official SVG Brand Pills for GitHub, LinkedIn, and Instagram.
    - Footer Grid: 4-column layout for Bio, Navigation, Social Links, and Copyright.
 
 Build Configuration:
