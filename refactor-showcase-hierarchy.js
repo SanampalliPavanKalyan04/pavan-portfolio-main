@@ -103,7 +103,7 @@ const newShowcaseHTML = `
             </div>
             
             <div className="flex flex-col items-start md:items-end gap-6">
-              <a href="https://github.com/devendharoff" target="_blank" rel="noreferrer" className="font-semibold text-sm text-blue-600 hover:text-blue-700 transition-colors flex items-center gap-1 group">
+              <a href="https://github.com/SanampalliPavanKalyan04" target="_blank" rel="noreferrer" className="font-semibold text-sm text-blue-600 hover:text-blue-700 transition-colors flex items-center gap-1 group">
                 View all projects <span className="group-hover:translate-x-1 transition-transform">&rarr;</span>
               </a>
               
