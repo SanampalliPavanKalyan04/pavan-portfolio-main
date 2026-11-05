@@ -1,8 +1,8 @@
-# Devender Gopagoni — Full-Stack Portfolio
+# PavanKalyan Sanampalli — Full-Stack Portfolio
 
 > High-performance personal portfolio built with Next.js 14, TypeScript, Tailwind CSS, and GSAP motion physics.
 
-![Devender Portfolio Preview](./public/images/preview.png)
+![PavanKalyan Portfolio Preview](./public/images/preview.png)
 
 ## 🚀 Overview
 
