@@ -48,7 +48,7 @@ npm run start
 ## 📬 Contact & Socials
 
 - **Email**: [sanampallipavankalyan36@gmail.com](mailto:sanampallipavankalyan36@gmail.com)
-- **GitHub**: [@sanampallipavankalyan04](https://github.com/SanampalliPavanKalyan04/)
+- **GitHub**: [@sanampallipavankalyan04](https://github.com/SanampalliPavanKalyan04)
 - **LinkedIn**: [Sanampalli PavanKalyan](https://www.linkedin.com/in/sanampalli-pavankalyan/)
 - **Connects AI**: [@connects.ai](https://www.instagram.com/connects.ai)
 
