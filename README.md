@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-A modern, interactive portfolio application showcasing full-stack web engineering, UI/UX design capabilities, and live SaaS/web projects. Features dynamic liquid cursor masks, 3D tilt motion physics, responsive slide-out navigation, and curated tech stack ecosystems.
+AI/ML Engineer. I build, optimize, and deploy scalable intelligence—from generative AI and deep learning models to robust, production-grade applications that solve high-value business problems.
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ A modern, interactive portfolio application showcasing full-stack web engineerin
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [GSAP](https://greensock.com/gsap/) & [Lenis Smooth Scroll](https://lenis.darkroom.engineering/)
-- **Icons**: Lucide React & Official Brand SVGs
+- **Icons**: Lucide React & Official Bran SVGs
 
 ## 📦 Getting Started
 
