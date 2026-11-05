@@ -47,10 +47,10 @@ npm run start
 
 ## 📬 Contact & Socials
 
-- **Email**: [devendhargopagoni@gmail.com](mailto:devendhargopagoni@gmail.com)
-- **GitHub**: [@devendharoff](https://github.com/devendharoff)
-- **LinkedIn**: [Devender Goud](https://www.linkedin.com/in/devender-goud-033875338/)
+- **Email**: [sanampallipavankalyan36@gmail.com](mailto:sanampallipavankalyan36@gmail.com)
+- **GitHub**: [@sanampallipavankalyan04](https://github.com/SanampalliPavanKalyan04/)
+- **LinkedIn**: [Sanampalli PavanKalyan](https://www.linkedin.com/in/sanampalli-pavankalyan/)
 - **Connects AI**: [@connects.ai](https://www.instagram.com/connects.ai)
 
 ---
-© 2026 Devender. All rights reserved.
+© 2026 PavanKalyan. All rights reserved.
