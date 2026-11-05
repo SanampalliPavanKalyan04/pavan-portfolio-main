@@ -50,7 +50,7 @@ npm run start
 - **Email**: [sanampallipavankalyan36@gmail.com](mailto:sanampallipavankalyan36@gmail.com)
 - **GitHub**: [@sanampallipavankalyan04](https://github.com/SanampalliPavanKalyan04)
 - **LinkedIn**: [Sanampalli PavanKalyan](https://www.linkedin.com/in/sanampalli-pavankalyan/)
-- **Connects AI**: [@connects.ai](https://www.instagram.com/connects.ai)
+- **Connects Instagram**: [@connect Instagram](https://www.instagram.com/mr_pa1_naidu?obrf=NHQ5bGl3OTI1ZnFt)
 
 ---
 © 2026 PavanKalyan. All rights reserved.
