@@ -1217,13 +1217,16 @@ export default function GlassHero() {
                 {
                   title: 'AI/ML',
                   skills: [
+                    { name: 'Deep Learning', icon: 'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg' },
+                    { name: 'LLMs', icon:"https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bot.svg"},
                     { name: 'TensorFlow', icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' },
+                    { name: 'RAG', icon: "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/file-search.svg" },
                     { name: 'PyTorch', icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg' },
                     { name: 'Computer Vision', icon: 'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/eye.svg' },
           
                     { name: 'Scikit-learn', icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg' },
                     { name: 'TFLite', icon: 'https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' },
-                    { name: 'Deep Learning', icon: 'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg' },
+                   
                     { name: 'CNN', icon: 'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/eye.svg' },
                     
                   ]
@@ -1241,6 +1244,7 @@ export default function GlassHero() {
                 {
                   title: 'Data Visualization',
                   skills: [
+                    { name: 'Excel', icon: 'https://thesvg.org/icons/microsoft-excel/default.svg' },
                     { name: 'Matplotlib', icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg' },
                     { name: 'Tableau', icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg' },
                     { name: 'Power BI', icon: 'https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg' },
